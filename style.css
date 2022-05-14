@@ -1,0 +1,25 @@
+.form-label.spl-label {
+    display: block;
+}
+.mb-3 .spl-label ~ span {
+    margin: 0 16px;
+}
+.form-check-input {
+    margin-right: 16px;
+}
+.col-4,.col-8 {
+    box-shadow: 0 0 5px 2px #ccc;
+}
+.row {
+    flex-wrap: nowrap;
+    margin: 10px;
+}
+p {
+    margin-bottom: 0;
+}
+
+.table td, .table th {
+    padding: 0.75rem;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;
+}
